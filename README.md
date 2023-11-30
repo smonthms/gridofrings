@@ -34,6 +34,10 @@ If you get an 'error: init' on load, then make sure you have a Grid plugged in. 
 
 ## version history
 
+### v1.1
+
+Added access to the engine params in the menu
+
 ### v1.0
 
 Initial release
