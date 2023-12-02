@@ -1,6 +1,6 @@
 # gridofrings
 
-I really wanted a Tocante Karper buy Ciat Lonbarde, but was never able to find one, and at the same time was slightly put off by the scales available. It occurred to me that Duncan Geere's gridofpoints may be the perfect thing to adapt to create a version of the Karper that suited my needs. Thank you again to Duncan for his support and permission to adapt this.
+I really wanted a Tocante Karper by Ciat Lonbarde, but was never able to find one, and at the same time was slightly put off by the scales available. It occurred to me that Duncan Geere's gridofpoints may be the perfect thing to adapt to create a version of the Karper that suited my needs. Thank you again to Duncan for his support and permission to adapt this.
 
 Play Mutable Instruments' Rings via a quantised keyboard on your grid. 
 
