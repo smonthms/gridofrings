@@ -1,6 +1,6 @@
 // Pluck uGen workout. Shout me @burn on llllllll.co if you need any assistance.
 
-Engine_KarplusRings : CroneEngine {
+Engine_KarplusRings_gor : CroneEngine {
 	var pg;
 	var amp=0.1;
 	var freq = 440;
