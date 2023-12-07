@@ -30,7 +30,7 @@
 -- > out3: -5V-5V on y-axis
 -- > out4: 0-10V on y-axis
 --
-engine.name = "KarplusRings" -- Pick synth engine
+engine.name = "KarplusRings_gor" -- Pick synth engine
 
 -- Init grid
 g = grid.connect()
@@ -88,6 +88,7 @@ function init()
   redraw_clock_id = clock.run(redraw_clock)
   forget_clock_id = clock.run(forget)
 end
+
 -- Visuals
 function redraw()
   if grid_connected then
@@ -407,7 +408,7 @@ end
 -- Build the scale
 function build_scale()
   notes_nums = musicutil.generate_scale_of_length(params:get("root_note"), params:get("scale"), cols) -- builds scale
-  notes_freq = musicutil.note_nums_to_freqs(notes_nums) -- converts note numbers to an array of frequencies
+  notes_freq = musicutil.note_nums_to_freqs(notes_nums)                                               -- converts note numbers to an array of frequencies
 
   screen_dirty = true
 end
